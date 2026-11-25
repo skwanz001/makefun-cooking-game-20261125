@@ -1,8 +1,8 @@
 # Dapur Kilat — game masak cepat
 
-[![Bounty: Make the best cooking game](https://img.shields.io/badge/make.fun-best--cooking--game-ff6b35)](https://make.fun/c/best-cooking-game-20261125-0137)
-[![Game: Dapur Kilat](https://img.shields.io/badge/game-Dapur%20Kilat-e8a13a)](https://make.fun/c/best-cooking-game-20261125-0137)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://make.fun/c/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/skwanz001/makefun-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/skwanz001/makefun-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 **Dapur Kilat** adalah game masak top-down 2D yang berjalan sepenuhnya
 offline dari file statis. Kamu koki satu-satunya di dapur kecil: ambil bahan
